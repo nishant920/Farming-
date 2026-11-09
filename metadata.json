@@ -1,0 +1,6 @@
+{
+  "name": "Shobhit Agro Farm Hub",
+  "description": "Smart Farming, Easy Machinery Rental & Farm Fresh Products. Modern agricultural platform for hiring heavy farm equipment and ordering certified organic farm produce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
